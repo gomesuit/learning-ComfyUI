@@ -1,0 +1,2 @@
+open:
+	open ${PYTHONPATH}/output
